@@ -1,0 +1,27 @@
+body {
+	overflow-y: auto;
+}
+
+.small {
+	margin-left: 0px;
+}
+
+#count-all,
+#area-all,
+#cost-all {
+	margin-left: 13.5px;
+}
+
+#settings {
+	margin-top: 55px;
+	padding: 7px 19px;
+	width: 180px;
+}
+
+.ie7 {
+	margin-bottom: 10px;	
+}
+
+.input-append .uneditable-input {
+	position: static;
+}
